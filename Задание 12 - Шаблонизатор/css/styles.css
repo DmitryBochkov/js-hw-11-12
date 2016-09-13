@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #efefef;
+  font-size: 18px;
+}
+.wrapper {
+  width: 513px;
+  margin: 3px auto 40px;
+  background: #ffffff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+}
+h1 {
+  margin: 0;
+  padding: 46px 0 17px;
+  font-size: 24px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 135px;
+}
+.photo-caption {
+  margin: 0px;
+  text-align: center;
+  padding-top: 9px;
+}
+hr {
+  width: 410px;
+  margin: 19px auto;
+}
+.motivation {
+  padding: 2px 0 0 65px;
+}
+ul {
+  padding: 10px 0px 0px 85px;
+  line-height: 1.5;
+  margin-bottom: -4px;
+}
+.phone {
+  padding: 2px 0px 0px 65px;
+  line-height: 1.5;
+}
+.vk {
+  padding: 4px 0px 0px 65px;
+  line-height: 1.5;
+  margin-bottom: -4px;
+}
+.feedback {
+  padding: 1px 0px 65px 65px;
+  line-height: 1.5;
+  margin-bottom: -4px;
+}
